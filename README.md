@@ -6,7 +6,7 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Junstant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junstant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junstant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
   </div>
   
   ###
@@ -85,7 +85,7 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
   
   ###
   
-  <img align="right" src="https://profile-counter.glitch.me/Junstant/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Junstant/count.svg?"  />
   
   ###
   
@@ -97,7 +97,6 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
     <a href="https://open.spotify.com/user/21ijpzqpljqgijn37q7sfgm2q">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ijpzqpljqgijn37q7sfgm2q&count=5&unique=true" alt="Spotify recently played"  />
     </a>
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21ijpzqpljqgijn37q7sfgm2q&unique={true|1|on|yes})
   </div>
   
   ###
