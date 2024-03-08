@@ -5,8 +5,6 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junstant&label=Profile%20views&color=0e75b6&style=flat" alt="junstant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junstant" alt="junstant" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, React, Phyton**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diartdw/](https://www.linkedin.com/in/diartdw/)
