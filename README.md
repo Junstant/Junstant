@@ -89,7 +89,7 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
   
   ###
   
-  <img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
+  
   
   ###
   
