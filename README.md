@@ -5,7 +5,7 @@
 Dynamic IT Systems Engineering student at UAI with a comprehensive skill set including expertise in SEO & SEM strategies, proficiency as a WP Developer, adept in UX & UI design principles, and adept CRM management. Possessing a Full Stack Developer diploma and adept in GA Marketing analytics. Dedicated to leveraging technical acumen to drive innovative solutions and enhance user experiences.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Junstant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Junstant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junstant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
   </div>
   
