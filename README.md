@@ -84,9 +84,9 @@ Dynamic IT Systems Engineering student at UAI with a comprehensive skill set inc
   <img src="https://raw.githubusercontent.com/Junstant/Junstant/output/snake.svg" alt="Snake animation" />
   
   ###
-  
+  <div align="center">
   <img src="https://profile-counter.glitch.me/Junstant/count.svg?"  />
-  
+  </div>
   ###
   
   
