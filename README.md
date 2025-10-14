@@ -99,14 +99,6 @@ I firmly believe that the blend of solid technical expertise and strong soft ski
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Junstant/Junstant/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Junstant/count.svg?" />
-</div>
-  
   ###
   
   <div align="center">
