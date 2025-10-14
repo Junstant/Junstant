@@ -1,20 +1,28 @@
 <h1 align="center">Hi 👋, I'm Lucas Jung</h1>
 <h3 align="center">Systems Engineering Student | Full-Stack Developer | Technical Sales Intern @ IBM ☁️</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luemanuel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://dribbble.com/Junstant" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo" />
-  </a>
-  <a href="https://www.instagram.com/diart_dw/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:Luquitasemanuel@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
-  </a>
-</p>
+  ###
+  
+  <div align="center">
+    <a href="https://ko-fi.com/junstant" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+    </a>
+    <a href="https://www.instagram.com/diart_dw/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
+    <a href="https://dribbble.com/Junstant" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    </a>
+    <a href="linkedin.com/in/diartdw/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href="mailto:Luquitasemanuel@outlook.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    </a>
+  </div>
+  
+  ###
+  
 
 ---
 
@@ -99,28 +107,6 @@ I firmly believe that the blend of solid technical expertise and strong soft ski
 
 ---
 
-  ###
-  
-  <div align="center">
-    <a href="https://ko-fi.com/junstant" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-    </a>
-    <a href="https://www.instagram.com/diart_dw/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://dribbble.com/Junstant" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-    </a>
-    <a href="linkedin.com/in/diartdw/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:Luquitasemanuel@outlook.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-    </a>
-  </div>
-  
-  ###
-  
   <div align="center">
     <img height="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"  />
   </div>
