@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋, I'm Lucas Jung</h1>
-<h3 align="center">Systems Engineering Student | Full-Stack Developer | Technical Sales Intern @ IBM ☁️</h3>
+<h3 align="center">Systems Engineering Student | Solutions Architect @ Baloon Technology ☁️</h3>
 
-  ###
+ ###
   
-  <div align="center">
-    <a href="https://ko-fi.com/junstant" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-    </a>
-    <a href="https://www.instagram.com/diart_dw/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://dribbble.com/Junstant" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/luemanuel" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:Luquitasemanuel@outlook.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-    </a>
-  </div>
+ <div align="center">
+   <a href="https://ko-fi.com/junstant" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+   </a>
+   <a href="https://www.instagram.com/diart_dw/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+   </a>
+   <a href="https://dribbble.com/Junstant" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+   </a>
+   <a href="https://www.linkedin.com/in/luemanuel" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a>
+   <a href="mailto:Luquitasemanuel@outlook.com" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+   </a>
+ </div>
   
-  ###
+ ###
   
 
 ---
 
 ### About Me
 
-I am a professional driven by a passion for **continuous learning** and the practical application of technology. With a strong foundation as a **Systems Engineering student**, I combine my academic training with real-world experience in **Full-Stack Development**, **Cloud Services Management (IBM & Google)**, and **UI/UX Design**.
+I am a professional driven by a passion for **continuous learning** and the practical application of technology. With a strong foundation as a **Systems Engineering student**, I combine my academic training with real-world experience in **Hybrid Cloud Architecture**, **Infrastructure as Code**, and **Enterprise Solutions**.
 
-My journey includes over five years of leading teams and managing complex web projects, which has sharpened my skills in communication, organization, and selling tech solutions. Currently, as a **Technical Sales Intern at IBM**, my focus is on the **IBM Power ecosystem, AI, and cloud solutions**.
+My journey includes over five years of leading teams and managing complex projects, which has sharpened my skills in communication, organization, and delivering technical solutions. Currently, as a **Solutions Architect at Baloon Technology**, my focus is on **Red Hat OpenShift, Hybrid Cloud environments, and enterprise infrastructure**. Previously, I developed my expertise as a **Power Technical Specialist Intern at IBM**, specializing in the IBM Power ecosystem.
 
 I firmly believe that the blend of solid technical expertise and strong soft skills is the key to creating high-impact solutions. I'm always looking for new challenges to innovate and demonstrate my full potential!
 
@@ -94,8 +94,11 @@ I firmly believe that the blend of solid technical expertise and strong soft ski
 
 ### ✨ Key Experience
 
--   **IBM** - *Sales Internship* (May 2025 - Present)
-    -   Focusing on IBM Power solutions, technical sales, and developing proofs of concept (PoCs).
+-   **Baloon Technology** - *Solutions Architect* (Feb 2026 - Present)
+    -   Specializing in Red Hat OpenShift, Hybrid Cloud environments, and enterprise infrastructure architecture.
+
+-   **IBM** - *Power Technical Specialist Intern* (May 2025 - Feb 2026)
+    -   Focused on IBM Power solutions (Power10/Power11), AIX, virtualization, and developing proofs of concept (PoCs).
 
 -   **/q99** - *Frontend Developer + UX/UI* (Jun 2025 - Oct 2025)
     -   Led the frontend development of an AI application using **React** and **TypeScript**.
@@ -107,27 +110,27 @@ I firmly believe that the blend of solid technical expertise and strong soft ski
 
 ---
 
-  <div align="center">
-    <img height="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"  />
-  </div>
+ <div align="center">
+   <img height="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"  />
+ </div>
   
-  ###
+ ###
   
-  <br clear="both">
+ <br clear="both">
   
-  <img src="https://raw.githubusercontent.com/Junstant/Junstant/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/Junstant/Junstant/output/snake.svg" alt="Snake animation" />
   
-  ###
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/Junstant/count.svg?"  />
-  </div>
+ ###
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/Junstant/count.svg?"  />
+ </div>
   
-  ###
+ ###
   
-  <div align="center">
-    <a href="https://open.spotify.com/user/21ijpzqpljqgijn37q7sfgm2q">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ijpzqpljqgijn37q7sfgm2q&count=5&unique=true" alt="Spotify recently played"  />
-    </a>
-  </div>
+ <div align="center">
+   <a href="https://open.spotify.com/user/21ijpzqpljqgijn37q7sfgm2q">
+     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ijpzqpljqgijn37q7sfgm2q&count=5&unique=true" alt="Spotify recently played"  />
+   </a>
+ </div>
   
-  ###
+ ###
